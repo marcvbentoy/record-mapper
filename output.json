@@ -1,30 +1,27 @@
 [
   {
-    "_id": "683ef632f503ef5c6bbb53fe",
+    "_id": "68c15e77ba11991ad016472d",
     "_class": "io.benefexapps.profiles.domain.Profile",
-    "userId": "0c9a031e-8ee6-426e-98a0-2d558d5a380c",
-    "company": "scott-test-segmentcompany",
-    "email": "testmarc@companyname.com",
-    "firstName": "Test Marc",
-    "lastName": "Bentoy",
-    "name": "Test Marc Bentoy",
-    "employeeKey": "123456789",
-    "department": "Product",
-    "jobTitle": "Product Manager",
+    "userId": "81611686-7491-4aa4-976a-4e339a01f207",
+    "company": "benefex",
+    "email": "alicecheung@benifex.com",
+    "firstName": "Alice",
+    "lastName": "Cheung",
+    "name": "Alice Cheung",
+    "employeeKey": "alice-cheung",
+    "department": "Product Engineering",
+    "jobTitle": "Engineering Manager",
     "pictureUri": null,
-    "country": "United Kingdom",
-    "businessUnit": "Domestic Operations",
+    "businessUnit": null,
     "currencyCode": "GBP",
     "status": "ACTIVE",
-    "gender": "Male",
-    "dateOfBirth": "1989-07-23",
+    "gender": null,
+    "dateOfBirth": null,
     "roles": [
-      "USER",
-      "MANAGER",
-      "REWARDER"
+      "USER"
     ],
     "createdDate": {
-      "$date": "2025-04-02T13:05:52.542Z"
+      "$date": "2025-09-10T11:18:15.623Z"
     },
     "updatedDate": {
       "$date": "2025-11-13T16:06:32.941Z"
@@ -32,55 +29,13 @@
     "companyMembership": {
       "DEPARTMENT": {
         "entity": "36c18a66-8ba0-4430-a3f9-1a4706047389",
-        "name": "Product",
+        "name": "Product Engineering",
         "membershipType": "DEPARTMENT"
       }
     },
     "phoneNumbers": [],
-    "searchable": "Test Marc Bentoy",
+    "searchable": "Alice Cheung",
     "ssoUniqueIdentifier": null,
-    "internalSSOIdentifier": "homesquadtesting_scott::1298472478561"
-  },
-  {
-    "_id": "683ef632f503ef5c6bbb53fe",
-    "_class": "io.benefexapps.profiles.domain.Profile",
-    "userId": "0c9a031e-8ee6-426e-98a0-2d558d5a380c",
-    "company": "scott-test-segmentcompany",
-    "email": "testmarc@companyname.com",
-    "firstName": "Test Marc",
-    "lastName": "Bentoy",
-    "name": "Test Marc Bentoy",
-    "employeeKey": "123456789",
-    "department": "Product",
-    "jobTitle": "Product Manager",
-    "pictureUri": null,
-    "country": "United Kingdom",
-    "businessUnit": "Domestic Operations",
-    "currencyCode": "GBP",
-    "status": "ACTIVE",
-    "gender": "Male",
-    "dateOfBirth": "1989-07-23",
-    "roles": [
-      "USER",
-      "MANAGER",
-      "REWARDER"
-    ],
-    "createdDate": {
-      "$date": "2025-04-02T13:05:52.542Z"
-    },
-    "updatedDate": {
-      "$date": "2025-11-13T16:06:32.941Z"
-    },
-    "companyMembership": {
-      "DEPARTMENT": {
-        "entity": "36c18a66-8ba0-4430-a3f9-1a4706047389",
-        "name": "Product",
-        "membershipType": "DEPARTMENT"
-      }
-    },
-    "phoneNumbers": [],
-    "searchable": "Test Marc Bentoy",
-    "ssoUniqueIdentifier": null,
-    "internalSSOIdentifier": "homesquadtesting_scott::1298472478561"
+    "internalSSOIdentifier": null
   }
 ]
