@@ -1,41 +1,11 @@
-[
-  {
-    "_id": "68c15e77ba11991ad016472d",
-    "_class": "io.benefexapps.profiles.domain.Profile",
-    "userId": "81611686-7491-4aa4-976a-4e339a01f207",
-    "company": "benefex",
-    "email": "alicecheung@benifex.com",
-    "firstName": "Alice",
-    "lastName": "Cheung",
-    "name": "Alice Cheung",
-    "employeeKey": "alice-cheung",
-    "department": "Product Engineering",
-    "jobTitle": "Engineering Manager",
-    "pictureUri": null,
-    "businessUnit": null,
-    "currencyCode": "GBP",
-    "status": "ACTIVE",
-    "gender": null,
-    "dateOfBirth": null,
-    "roles": [
-      "USER"
-    ],
-    "createdDate": {
-      "$date": "2025-09-10T11:18:15.623Z"
-    },
-    "updatedDate": {
-      "$date": "2025-11-13T16:06:32.941Z"
-    },
-    "companyMembership": {
-      "DEPARTMENT": {
-        "entity": "36c18a66-8ba0-4430-a3f9-1a4706047389",
-        "name": "Product Engineering",
-        "membershipType": "DEPARTMENT"
-      }
-    },
-    "phoneNumbers": [],
-    "searchable": "Alice Cheung",
-    "ssoUniqueIdentifier": null,
-    "internalSSOIdentifier": null
-  }
-]
+{
+  "_class": "io.benefexapps.profiles.domain.Profile",
+  "userId": "0c9a031e-8ee6-426e-98a0-2d558d5a380c",
+  "companyMembership": {
+    "DEPARTMENT": {
+      "entity": "36c18a66-8ba0-4430-a3f9-1a4706047389",
+      "membershipType": "DEPARTMENT"
+    }
+  },
+  "phoneNumbers": []
+}
