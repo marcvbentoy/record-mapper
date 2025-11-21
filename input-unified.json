@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "67ed363038d93661b1e67b52",
+    "companyId": "scott-test-segmentcompany",
+    "customAttributes": {
+      "searchable": "Test Marc Bentoy",
+      "company": "scott-test-segmentcompany",
+      "userType": "Full-Time Employee",
+      "currencyCode": "GBP",
+      "createdDate": {
+        "$date": "2025-04-02T13:05:52.542Z"
+      },
+      "updatedDate": {
+        "$date": "2025-11-13T16:06:32.941Z"
+      }
+    },
+    "employmentDetails": [
+      {
+        "employeeId": "123456789",
+        "additionalEmployeeId": null,
+        "jobTitle": "Product Manager",
+        "employmentStatus": "ACTIVE",
+        "grade": null,
+        "department": "Product",
+        "location": null,
+        "tenure": null,
+        "workEmail": "testmarc@companyname.com",
+        "workPhone": null,
+        "workingHours": null,
+        "compensationComponents": [],
+        "businessUnit": "Domestic Operations"
+      }
+    ],
+    "id": "683ef632f503ef5c6bbb53fe",
+    "personalInformation": {
+      "title": null,
+      "forename": "Test Marc",
+      "surname": "Bentoy",
+      "middleName": null,
+      "preferredName": null,
+      "localName": null,
+      "pronouns": null,
+      "dateOfBirth": "1989-07-23",
+      "gender": "Male",
+      "maritalStatus": null,
+      "effectiveDateOfMaritalStatus": null,
+      "nationality": "GB",
+      "nationalIdentities": [],
+      "address": null,
+      "profilePicture": null,
+      "email": [
+        {
+          "email": "testmarc@companyname.com",
+          "isPrimary": true,
+          "isVerified": true
+        }
+      ],
+      "phone": null,
+      "emergencyContact": null,
+      "role": [
+        "USER",
+        "MANAGER",
+        "REWARDER"
+      ]
+    },
+    "profileId": "0c9a031e-8ee6-426e-98a0-2d558d5a380c",
+    "profilePreferences": {
+      "locale": null
+    },
+    "profileSecurity": {
+      "deviceIdentifier": null,
+      "ssoUniqueIdentifier": null,
+      "internalSSOIdentifier": "homesquadtesting_scott::1298472478561"
+    },
+    "userId": "0c9a031e-8ee6-426e-98a0-2d558d5a380c"
+  },
+  {
+    "_id": "67ed363038d93661b1e67b52",
+    "companyId": "scott-test-segmentcompany",
+    "customAttributes": {
+      "searchable": "Test Marc Bentoy",
+      "company": "scott-test-segmentcompany",
+      "userType": "Full-Time Employee",
+      "currencyCode": "GBP",
+      "createdDate": {
+        "$date": "2025-04-02T13:05:52.542Z"
+      },
+      "updatedDate": {
+        "$date": "2025-11-13T16:06:32.941Z"
+      }
+    },
+    "employmentDetails": [
+      {
+        "employeeId": "123456789",
+        "additionalEmployeeId": null,
+        "jobTitle": "Product Manager",
+        "employmentStatus": "ACTIVE",
+        "grade": null,
+        "department": "Product",
+        "location": null,
+        "tenure": null,
+        "workEmail": "testmarc@companyname.com",
+        "workPhone": null,
+        "workingHours": null,
+        "compensationComponents": [],
+        "businessUnit": "Domestic Operations"
+      }
+    ],
+    "id": "683ef632f503ef5c6bbb53fe",
+    "personalInformation": {
+      "title": null,
+      "forename": "Test Marc",
+      "surname": "Bentoy",
+      "middleName": null,
+      "preferredName": null,
+      "localName": null,
+      "pronouns": null,
+      "dateOfBirth": "1989-07-23",
+      "gender": "Male",
+      "maritalStatus": null,
+      "effectiveDateOfMaritalStatus": null,
+      "nationality": "GB",
+      "nationalIdentities": [],
+      "address": null,
+      "profilePicture": null,
+      "email": [
+        {
+          "email": "testmarc@companyname.com",
+          "isPrimary": true,
+          "isVerified": true
+        }
+      ],
+      "phone": null,
+      "emergencyContact": null,
+      "role": [
+        "USER",
+        "MANAGER",
+        "REWARDER"
+      ]
+    },
+    "profileId": "0c9a031e-8ee6-426e-98a0-2d558d5a380c",
+    "profilePreferences": {
+      "locale": null
+    },
+    "profileSecurity": {
+      "deviceIdentifier": null,
+      "ssoUniqueIdentifier": null,
+      "internalSSOIdentifier": "homesquadtesting_scott::1298472478561"
+    },
+    "userId": "0c9a031e-8ee6-426e-98a0-2d558d5a380c"
+  }
+]

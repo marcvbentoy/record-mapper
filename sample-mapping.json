@@ -1,0 +1,6 @@
+{
+  "fullName": "first_name",
+  "address.city": "location.city",
+  "address.country": "location.country",
+  "age": "age"
+}

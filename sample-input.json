@@ -1,0 +1,9 @@
+{
+  "first_name": "John",
+  "last_name": "Doe",
+  "location": {
+    "city": "Manila",
+    "country": "PH"
+  },
+  "age": 28
+}
